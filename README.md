@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Atuo em projetos acadêmicos e pessoais utilizando Python para manipulação e organização de dados, além de SQL Server para consultas, criação de estruturas e extração de informações.
 
@@ -22,18 +22,20 @@ Tenho prática em:
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Aprofundar meus conhecimentos em bancos de dados, processos de transformação e organização de dados, evoluindo tecnicamente para atuar na área de Engenharia de Dados, contribuindo na construção de soluções escaláveis e orientadas a dados.
 
 ---
 
 
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="SQL / Banco de Dados"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
 </p>
@@ -61,3 +63,4 @@ Aprofundar meus conhecimentos em bancos de dados, processos de transformação e
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
