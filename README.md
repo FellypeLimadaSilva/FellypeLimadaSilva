@@ -28,18 +28,20 @@ Aprofundar meus conhecimentos em bancos de dados, processos de transformação e
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL / Banco de Dados"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="SQL Server"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" title="Microsoft Excel"/>
 </p>
 
 ---
@@ -47,15 +49,15 @@ Aprofundar meus conhecimentos em bancos de dados, processos de transformação e
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:SEU_EMAIL_AQUI" title="Enviar Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://www.instagram.com/SEU_USUARIO_AQUI">
+  <a href="https://www.instagram.com/SEU_USUARIO_AQUI" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
