@@ -30,6 +30,7 @@ Aprofundar meus conhecimentos em bancos de dados, processos de transformação e
 
 
 
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
@@ -51,15 +52,15 @@ Aprofundar meus conhecimentos em bancos de dados, processos de transformação e
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/fellype-lima-5a5aa7269/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="mailto:SEU_EMAIL_AQUI" title="Enviar Email">
+  <a href="mailto:fellypelima333@gmail.com" title="Enviar Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://www.instagram.com/SEU_USUARIO_AQUI" title="Instagram">
+  <a href="https://www.instagram.com/fellype1222/" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
