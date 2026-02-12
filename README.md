@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou Fellype Lima da Silva 👋</h1>
+<h1 align="center">Olá, eu sou Fellype Lima da Silva </h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software (7º semestre) – UNIVAG <br>
-📊 Foco em construir carreira na área de Dados, especialmente em Engenharia de Dados
+ Estudante de Engenharia de Software (7º semestre) – UNIVAG <br>
+ Foco em construir carreira na área de Dados, especialmente em Engenharia de Dados
 </p>
 
 ---
