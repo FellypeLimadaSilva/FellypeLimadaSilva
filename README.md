@@ -3,7 +3,7 @@
 <p align="center">
   Engenheiro de Dados Júnior na OUD Tecnologia<br>
   Bacharelando em Engenharia de Software - UNIVAG<br>
-  Python, SQL, ETL/ELT, Power BI e modelagem de dados
+  Python, SQL, ETL/ELT, pipelines e modelagem de dados
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 Atuo como Engenheiro de Dados Júnior, com foco na construção, organização e análise de soluções orientadas a dados.
 
-Tenho experiência com Python, SQL, SQL Server, Power BI, Excel e Git/GitHub, aplicando esses conhecimentos em manipulação de dados, consultas, tratamento de informações, criação de dashboards e apoio à tomada de decisão.
+Tenho experiência com Python, SQL, SQL Server e Git/GitHub, aplicando esses conhecimentos em manipulação de dados, consultas, tratamento de informações, estruturação de bases e apoio à tomada de decisão.
 
 Atualmente venho aprofundando minha atuação em Engenharia de Dados, especialmente em desenvolvimento de pipelines, processos de ETL/ELT, modelagem de dados, qualidade de dados e organização de bases para uso analítico.
 
@@ -58,9 +58,12 @@ Principais frentes:
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="SQL Server"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" title="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" title="Looker Studio"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" title="dbt"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" title="Databricks"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" title="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>
 </p>
 
 ---
@@ -79,13 +82,6 @@ Ferramentas, conceitos e práticas que venho estudando e aplicando para evoluir 
 - Databricks
 - PySpark
 - Orquestração de pipelines
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" title="dbt"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" title="Databricks"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" title="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Apache Airflow"/>
-</p>
 
 ---
 
